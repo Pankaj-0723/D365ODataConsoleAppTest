@@ -13,4 +13,3 @@ E:\Pankaj\Pks\AllWorkingProjects\ICErobotics\ODataUtility\ODataUtility\bin\Debug
 E:\Pankaj\Pks\AllWorkingProjects\ICErobotics\ODataUtility\ODataUtility\bin\Debug\Microsoft.Spatial.xml
 E:\Pankaj\Pks\AllWorkingProjects\ICErobotics\ODataUtility\ODataUtility\obj\Debug\ODataUtility.dll
 E:\Pankaj\Pks\AllWorkingProjects\ICErobotics\ODataUtility\ODataUtility\obj\Debug\ODataUtility.pdb
-E:\Pankaj\Pks\AllWorkingProjects\ICErobotics\ODataUtility\ODataUtility\obj\Debug\ODataUtility.csprojResolveAssemblyReference.cache

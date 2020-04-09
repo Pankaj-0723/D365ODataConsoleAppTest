@@ -19,3 +19,4 @@ E:\Pankaj\Pks\AllWorkingProjects\ICErobotics\ODataUtility\ODataConsoleApp\bin\De
 E:\Pankaj\Pks\AllWorkingProjects\ICErobotics\ODataUtility\ODataConsoleApp\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
 E:\Pankaj\Pks\AllWorkingProjects\ICErobotics\ODataUtility\ODataConsoleApp\obj\Debug\ODataConsoleApp.exe
 E:\Pankaj\Pks\AllWorkingProjects\ICErobotics\ODataUtility\ODataConsoleApp\obj\Debug\ODataConsoleApp.pdb
+E:\Pankaj\Pks\AllWorkingProjects\ICErobotics\ODataUtility\ODataConsoleApp\obj\Debug\ODataConsoleApp.csprojResolveAssemblyReference.cache

@@ -80,6 +80,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="ODataClient1.ttinclude" />
+    <None Include="ODataClient2.ttinclude" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
