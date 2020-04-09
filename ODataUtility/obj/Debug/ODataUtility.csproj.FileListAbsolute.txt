@@ -1,0 +1,16 @@
+E:\Pankaj\Pks\AllWorkingProjects\ICErobotics\ODataUtility\ODataUtility\bin\Debug\ODataUtility.dll
+E:\Pankaj\Pks\AllWorkingProjects\ICErobotics\ODataUtility\ODataUtility\bin\Debug\ODataUtility.pdb
+E:\Pankaj\Pks\AllWorkingProjects\ICErobotics\ODataUtility\ODataUtility\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+E:\Pankaj\Pks\AllWorkingProjects\ICErobotics\ODataUtility\ODataUtility\bin\Debug\Microsoft.OData.Client.dll
+E:\Pankaj\Pks\AllWorkingProjects\ICErobotics\ODataUtility\ODataUtility\bin\Debug\Microsoft.OData.Core.dll
+E:\Pankaj\Pks\AllWorkingProjects\ICErobotics\ODataUtility\ODataUtility\bin\Debug\Microsoft.OData.Edm.dll
+E:\Pankaj\Pks\AllWorkingProjects\ICErobotics\ODataUtility\ODataUtility\bin\Debug\Microsoft.Spatial.dll
+E:\Pankaj\Pks\AllWorkingProjects\ICErobotics\ODataUtility\ODataUtility\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.pdb
+E:\Pankaj\Pks\AllWorkingProjects\ICErobotics\ODataUtility\ODataUtility\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+E:\Pankaj\Pks\AllWorkingProjects\ICErobotics\ODataUtility\ODataUtility\bin\Debug\Microsoft.OData.Client.xml
+E:\Pankaj\Pks\AllWorkingProjects\ICErobotics\ODataUtility\ODataUtility\bin\Debug\Microsoft.OData.Core.xml
+E:\Pankaj\Pks\AllWorkingProjects\ICErobotics\ODataUtility\ODataUtility\bin\Debug\Microsoft.OData.Edm.xml
+E:\Pankaj\Pks\AllWorkingProjects\ICErobotics\ODataUtility\ODataUtility\bin\Debug\Microsoft.Spatial.xml
+E:\Pankaj\Pks\AllWorkingProjects\ICErobotics\ODataUtility\ODataUtility\obj\Debug\ODataUtility.dll
+E:\Pankaj\Pks\AllWorkingProjects\ICErobotics\ODataUtility\ODataUtility\obj\Debug\ODataUtility.pdb
+E:\Pankaj\Pks\AllWorkingProjects\ICErobotics\ODataUtility\ODataUtility\obj\Debug\ODataUtility.csprojResolveAssemblyReference.cache

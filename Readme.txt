@@ -1,0 +1,1 @@
+Copy the OTest.xml file to C:\Temp\ folder.(if no folder like C:\Temp, then create)
